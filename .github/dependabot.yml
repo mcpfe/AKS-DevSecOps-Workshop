@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "weekly"
   - package-ecosystem: "maven"
-    directory: "/tools/deploy/module3"
+    directory: "/"
